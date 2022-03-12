@@ -1,0 +1,27 @@
+{
+  "name": "barbell-buddy",
+  "version": "1.0.0",
+  "description": "Fitness Weight Tracker ",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.3",
+    "express-sessions": "^1.0.6",
+    "mongoose": "^6.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstndhouk/Barbell-Buddy.git"
+  },
+  "author": "Justin Houk jstndhouk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstndhouk/Barbell-Buddy/issues"
+  },
+  "homepage": "https://github.com/jstndhouk/Barbell-Buddy#readme"
+}
